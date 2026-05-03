@@ -1,4 +1,4 @@
-# Hack's AI Judge ⬡
+# DataVerse Arena ⬡
 
 > AI-powered hackathon project evaluation platform  
 > DataVerse Club · Sapthagiri NPS University, Bengaluru
